@@ -1,0 +1,6 @@
+[submodule "generate-iot-data"]
+	path = generate-iot-data
+	url = https://github.com/YYx00xZZ/generate-iot-data
+[submodule "IoT-web-dashboard"]
+	path = IoT-web-dashboard
+	url = https://github.com/YYx00xZZ/IoT-web-dashboard
